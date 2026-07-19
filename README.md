@@ -55,11 +55,11 @@ engagement, since this is a practice dataset, not live company data.
    more than double the next product
 
 Screenshots / Demos
-![Main Dashboard]([screenshots/finance.jpg](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/Superstore-Analytics-Dashboard-Demo.gif))
+![Main Dashboard](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/Superstore-Analytics-Dashboard-Demo.gif)
 ![Map by State](screenshots/map.jpg)
 ![Quick Table Calculations](screenshots/Quick_Table_Calculation.jpg)
-![Donut by Segment]([screenshots/donut.gif](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/sales-by-segment-donut.gif))
-![Order Trend Line]([screenshots/Line_Chart.gif](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/Order-Trend-by-Month.gif))
-![Metric Switch (Parameter)]([screenshots/Metric.gif](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/Subcategory-Order-Breakdown%20(Metric).gif))
-![Parameter Demo]([screenshots/Parameter.gif](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/Subcategory-Sales-Parameter-View.gif))
-![Top 5 Products]([screenshots/top_5_product.gif](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/Top-5-Products-By-Metric.gif))
+![Donut by Segment](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/sales-by-segment-donut.gif)
+![Order Trend Line](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/Order-Trend-by-Month.gif)
+![Metric Switch (Parameter)](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/Subcategory-Order-Breakdown%20(Metric).gif)
+![Parameter Demo](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/Subcategory-Sales-Parameter-View.gif)
+![Top 5 Products](https://github.com/ayush60/Superstore-Analytics-Report-Tableau/blob/main/Top-5-Products-By-Metric.gif)
